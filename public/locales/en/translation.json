@@ -1,1 +1,16 @@
-{"title": "Welcome to Marafiq", "description": "Automate and scale your business with ease.", "language": "Switch to Arabic"}
+
+{
+  "title": "Welcome to Marafiq",
+  "description": "Automate and scale your business with ease. We provide comprehensive facility management solutions tailored to your needs.",
+  "language": "Switch to Arabic",
+  "home": "Home",
+  "services": "Services",
+  "about": "About",
+  "contact": "Contact",
+  "exploreServices": "Explore Our Services",
+  "contactUs": "Contact Us",
+  "submitMessage": "Send Message",
+  "sending": "Sending...",
+  "messageSent": "Your message has been sent successfully. We'll be in touch soon.",
+  "newsletter": "Subscribe to our newsletter for the latest news and updates."
+}
